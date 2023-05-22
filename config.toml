@@ -1,4 +1,4 @@
-baseurl = "http://brantlab.com/ema.brantlab.xyz/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://ema.brantlab.xyz/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Van Wert EMA"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
