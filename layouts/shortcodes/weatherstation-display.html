@@ -1,0 +1,45 @@
+<style>
+    #div-weather{
+       overflow : hidden;
+       height : 925px;
+   }
+    #weather{
+       position : relative;
+       top      : -135px;
+       height   : 1070px;
+       width    :540px;
+       zoom: 1.00;
+   }
+   #div-status{
+       height   : 100px;
+       overflow : hidden;
+   }
+    #iframe-status{
+       position : relative;
+       top      : -220px;
+       width    : 540px;
+       height   : 310px;
+   }
+   #subtitle
+  {
+   font-size: 30px;
+   Color: white;
+  }
+  #title
+  {
+   font-size: 50px;
+   Color: white;
+  }
+   </style>
+
+
+<div id="div-weather">
+    <iframe id="weather" src="https://tempestwx.com/station/{{ index .Params 0 }}/grid" frameborder="0" scrolling="no">
+    </iframe>
+</div>
+<!--
+<div id="div-status">
+    <iframe id="iframe-status" src="https://tempestwx.com/settings/station/{{ index .Params 0 }}/status" frameborder="0" scrolling="no">
+    </iframe>
+</div>
+!-->

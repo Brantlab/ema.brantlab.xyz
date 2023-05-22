@@ -1,0 +1,20 @@
+<style>
+    #div-status{
+       height   : 1100px;
+       overflow : hidden;
+   }
+    #iframe-status{
+       position : relative;
+       top      : -220px;
+       width    : 540px;
+       height   : 400px;
+   }
+   </style>
+
+
+<div id="div-status">
+    <iframe id="iframe-status" src="https://tempestwx.com/settings/station/{{ index .Params 0 }}/status" frameborder="0" scrolling="no">
+    </iframe>
+    </div>
+
+    
