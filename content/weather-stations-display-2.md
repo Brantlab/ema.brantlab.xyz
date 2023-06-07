@@ -7,10 +7,6 @@ type = "mylayout"
  <center id="title"> PERSONALLY OWNED STATIONS {{< time >}} </center>
 <br>
 
-| <b> <center id="subtitle"> McCoy </b> <br> | <b> <center id="subtitle"> Kouts </b> <br>| <b> <center id="subtitle"> Ulrich </b> <br>| 
+| <b> <center id="subtitle"> McCoy </b> <br> |
 |------------------------|
-| {{< weatherstation-display 063770 >}} 
-
-
-
-{{% | {{< weatherstation-display 061610 >}} | {{< weatherstation-display 020093 >}} | %}} 
+| {{< weatherstation-display 063770 >}}

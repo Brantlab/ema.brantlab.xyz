@@ -1,0 +1,1 @@
+| {{< weatherstation-display 061610 >}} | {{< weatherstation-display 020093 >}} |
