@@ -20,5 +20,3 @@ type = "mylayout"
 {{< davis 2da8a047cf20421f908ba5a4daf66df3 >}}
 {{< davis 920216c8e99e4e5b9cb0c7d422ab1bf8 >}}
 {{< davis me2VMSSJoWb203K5RZCVQ0feMHgqwqnX >}}
-
-
