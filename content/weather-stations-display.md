@@ -15,4 +15,4 @@ type = "mylayout"
 
 | <b> <center id="subtitle"> Ohio City  </b> <br>| <b> <center id="subtitle"> Willshire  </b> <br>  | <b> <center id="subtitle"> Wetzelland </b> <br> | <b> <center id="subtitle"> Venedocia </b> <br> |<b> <center id="subtitle"> Glenmore</b> <br> |<b> <center id="subtitle"> Delphos Park</b> <br> 
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|{{< weatherstation-display 081615 >}} | {{< weatherstation-display 081620 >}} | {{< weatherstation-display 071013 >}} | {{< weatherstation-display 086888 >}} | {{< weatherstation-display 101906 >}} |{{< weatherstation-display 184926 >}} |
+|{{< weatherstation-display 081615 >}} | {{< weatherstation-display 081620 >}} | {{< weatherstation-display 071013 >}} | {{< weatherstation-display 086888 >}} | {{< weatherstation-display 101906 >}} |{{< weatherstation-display 184926 >}} | 
